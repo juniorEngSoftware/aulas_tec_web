@@ -2,9 +2,9 @@
 
      # dados para conexão com o banco de dados
      $servidor = 'localhost';
-     $usuario = 'root';
-     $senha = '';
-     $banco = 'livro';
+     $usuario = 'adminiJEEbbf';
+     $senha = 'Zgy3nMsCjgTe';
+     $banco = 'tecnologiaweb';
 
      # executa a conexão com o MySQL
      $link = mysql_connect($servidor,$usuario,$senha)or die('nao foi possivel conectar: '.mysql_error());
