@@ -1,7 +1,7 @@
 <?PHP
 
      # dados para conexão com o banco de dados
-     $servidor = 'localhost';
+     $servidor = '127.13.72.2';
      $usuario = 'adminiJEEbbf';
      $senha = 'Zgy3nMsCjgTe';
      $banco = 'tecnologiaweb';

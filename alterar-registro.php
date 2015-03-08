@@ -8,10 +8,10 @@
 <bodY>
 <?PHP
      # dados para conexão com o banco de dados
-     $servidor = 'localhost';
-     $usuario = 'root';
-     $senha = '';
-     $banco = 'livro';
+    $servidor = '127.13.72.2';
+     $usuario = 'adminiJEEbbf';
+     $senha = 'Zgy3nMsCjgTe';
+     $banco = 'tecnologiaweb';
      # executa a conexão com o MySQL
      $link = mysql_connect($servidor,$usuario,$senha)or die('nao foi possivel conectar: '.mysql_error());
      # seleciona o banco de dados que deseja utilizar

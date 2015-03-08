@@ -8,10 +8,10 @@
 <?
    # dados para conexão com o banco de dados
 
-     $servidor = 'localhost';
-	 $usuario = 'root';
-     $senha = '';
-     $banco = 'livro';
+     $servidor = '127.13.72.2';
+     $usuario = 'adminiJEEbbf';
+     $senha = 'Zgy3nMsCjgTe';
+     $banco = 'tecnologiaweb';
 
      # executa a conexão com o MySQL
 
