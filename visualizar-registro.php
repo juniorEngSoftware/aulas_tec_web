@@ -16,7 +16,7 @@
 
     # dados para conexão com o banco de dados
 
-    $servidor = '127.13.72.2';
+    $servidor = 'https://tecnologiaweb-juniorlobatose.rhcloud.com/phpmyadmin/#PMAURL-0:index.php?db=&table=&server=1&target=&token=96bbf40aa5a762d4a4b192a11d99d854';
      $usuario = 'adminiJEEbbf';
      $senha = 'Zgy3nMsCjgTe';
      $banco = 'tecnologiaweb';
